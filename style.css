@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.box{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+}
+.div{
+    margin-left: 100px;
+    transform: translateY(50px);
+    width: 80%;
+    height: 80vh;
+    background: linear-gradient(to right top, violet,skyblue);
+}
+.div h1{
+    color: white;
+    font-weight: 900;
+    text-align: center;
+    padding-top: 25px;
+}
+.box p{
+    color: white;
+    font-size: 13px;
+    padding: 5px;
+    text-align: center;
+    font-weight: 900;
+}
+.span{
+    color: white;
+    margin-left: 30px;
+    text-align: center;
+    
+}
+.ipo{
+    color: white;
+    margin-left: 300px;
+
+}
+.w1{
+    color: white;
+    margin-left: 420px;
+}
+.s1{
+    color: white;
+    margin-left: 20px;
+}
+.btn{
+    margin-left: 260px;
+    width: 110px;
+    height: 35px;
+    border-radius: 20px;
+    background-color: #d16ba5;
+    font-size: 15x;
+    border: none;
+    box-shadow: 10px 10px 10px gray; 
+    border-color: white;
+}
+.bnt{
+    width: 110px;
+    height: 35px;
+    border-radius: 20px;
+    background-color: #86a8e7;
+    font-size: 15x;
+    border: none;
+    box-shadow: 10px 10px 10px gray; 
+}
+.bvt{
+    width: 110px;
+    height: 35px;
+    border-radius: 20px;
+    background-color: #5ffbf1;
+    font-size: 15x;
+    border: none;
+    box-shadow: 10px 10px 10px gray; 
+
+}
+.diu{
+    width: 110px;
+    height: 35px;
+    border-radius: 20px;
+    background-color: #5ffbf1;
+    font-size: 15x;
+    border: none;
+    box-shadow: 10px 10px 10px gray; 
+    margin-top: 20px;
+    margin-left: 370px;
+
+
+}
+
